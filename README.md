@@ -34,7 +34,7 @@ There are very limited and not so clear resources available out there, Hence I'v
 ## For backend developers
 
 * a must 'have a look' project for Backend developers. [in initial stage]
-* https://github.com/Naman-2001/PracticeApp-Backend
+
 
 
 ## Resources
